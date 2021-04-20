@@ -2,7 +2,7 @@ package base;
 
 import java.time.LocalDate;
 
-public class Main {
+public class                            Main {
 
     public static void main(String[] args) {
         Mammal bob = new Mammal("Bob", LocalDate.of(1993, 12, 25), true);
